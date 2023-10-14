@@ -1,6 +1,6 @@
 // @ts-check
 
-"use strict";
+"use strict";java
 
 const fs = require("node:fs").promises;
 
